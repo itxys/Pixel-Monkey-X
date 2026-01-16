@@ -1,0 +1,26 @@
+{
+  "name": "pixel-monkey-pro",
+  "version": "1.1.0",
+  "description": "Professional mobile pixel art drawing tool.",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itxys/pixel_monkey_pro.git"
+  },
+  "keywords": [
+    "pixel-art",
+    "react",
+    "mobile-first",
+    "retro-ui"
+  ],
+  "author": "Pixel Monkey Team",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "@google/genai": "^1.34.0",
+    "lucide-react": "^0.562.0",
+    "html-to-image": "^1.11.11",
+    "canvas-confetti": "^1.9.3"
+  }
+}
